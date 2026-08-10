@@ -1,4 +1,4 @@
-import { createClient } from '@supabase/supabase-js'
+/* eslint-disable @typescript-eslint/no-explicit-any */
 
 const supabaseUrl = import.meta.env.VITE_SUPABASE_URL
 const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY
